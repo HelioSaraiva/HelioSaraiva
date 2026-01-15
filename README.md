@@ -5,16 +5,12 @@ Sou desenvolvedor Android e apaixonado por tecnologia.
 ### 👀 Estou buscando uma vaga no momento 👀
 
 ## ⚡ Habilidades
-- Desenvolvimento Android (Java e Kotlin)
-- Arquiteturas MVC, MVP, MVVM
-- Clean Architecture
-- Injeção de dependências com Hilt
+- Desenvolvimento Android (Kotlin)
+- Arquiteturas MVC
 - APis com Retrofit, Coroutines
-- Service e Broadcast
-- SOLID
 - Git e GitHub
 - Firebase, SQLite e SQL
-- Jetpack (LiveData, DataBinding, ViewModel, Room, WorkManager, Navigation e Compose)
+- Jetpack ( Navigation e Compose)
 - Testes unitários e de integração
 - Scrum
 
